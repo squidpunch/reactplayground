@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/squidpunch/reactplayground/issues"
   },
-  "homepage": "https://github.com/squidpunch/reactplayground#readme"
+  "homepage": "https://github.com/squidpunch/reactplayground#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
 }
